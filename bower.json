@@ -13,7 +13,6 @@
     "annotation"
   ],
   "license": "CC-BY-NC",
-  "private": false,
   "main": [
     "./dist/ng-annotate-text-latest.min.css",
     "./dist/ng-annotate-text-latest.min.js"
